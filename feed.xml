@@ -17,6 +17,13 @@
     <itunes:explicit>no</itunes:explicit>
     
         <item>
+            <title>EPISODE FULL 001</title>
+            <description>Auto-generated episode: EPISODE FULL 001</description>
+            <enclosure url="https://jimmy-j-xy.github.io/auto-podcaster/episodes/episode_full_001.mp3" length="21456" type="audio/mpeg"/>
+            <guid>https://jimmy-j-xy.github.io/auto-podcaster/episodes/episode_full_001.mp3</guid>
+            <pubDate>Sun, 01 Feb 2026 23:51:05 GMT</pubDate>
+        </item>
+        <item>
             <title>EPISODE 001</title>
             <description>Auto-generated episode: EPISODE 001</description>
             <enclosure url="https://jimmy-j-xy.github.io/auto-podcaster/episodes/episode_001.mp3" length="24192" type="audio/mpeg"/>
