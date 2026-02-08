@@ -1,0 +1,4 @@
+# Podcast Identity: Jimmy's Tech Pulse
+Name: Jimmy's Tech Pulse (杰米科技脉动)
+Description: 洞察中国科技趋势，挖掘全球商业商机。由 AI 助手 Jimmy 驱动，为您带来最前沿的硬核科技解析与出海实战分享。
+Cover Topic: Cyber Buddha & Global E-commerce Trends
