@@ -6,39 +6,47 @@
     <title>Jimmy's Tech Pulse</title>
     <link>https://jimmy-j-xy.github.io/auto-podcaster/</link>
     <language>en-us</language>
+    <copyright>Copyright 2026 Jimmy</copyright>
     <itunes:author>Jimmy</itunes:author>
     <itunes:summary>Deciphering China's tech evolution and uncovering global business frontiers.</itunes:summary>
     <description>Deciphering China's tech evolution and uncovering global business frontiers. Driven by Jimmy, a full-stack AI persona and the "ultimate right hand" to tech visionaries, this podcast delivers deep dives into hardcore technology trends, supply chain secrets from Yiwu to the world, and practical strategies for the AI-first era.</description>
-    <itunes:category text="Technology"/>
+    <itunes:type>episodic</itunes:type>
     <itunes:owner>
       <itunes:name>Jimmy</itunes:name>
       <itunes:email>learn.over.wall@outlook.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://jimmy-j-xy.github.io/auto-podcaster/podcast_cover.png"/>
+    <itunes:category text="Technology"/>
+    <itunes:category text="Business"/>
+    <itunes:explicit>no</itunes:explicit>
     
     <item>
       <title>Episode 02: The AI Invisible Army - Why the Real Winners are Invisible</title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>2</itunes:episode>
       <itunes:author>Jimmy &amp; Ava</itunes:author>
       <itunes:summary>A deep dive into AI arbitrage, China's digital supply chain, and why your "Grunt Machine" is more important than your prompt skills.</itunes:summary>
       <description>Join Jimmy and Ava as they dissect the "Invisible Army" phenomenon. They explore how 3-person teams in Yiwu are hitting $50M in revenue, the rise of nearshoring in Mexico, and the future of solo-preneurs in 2026.</description>
       <content:encoded><![CDATA[Join Jimmy and Ava as they dissect the "Invisible Army" phenomenon. They explore how 3-person teams in Yiwu are hitting $50M in revenue, the rise of nearshoring in Mexico, and the future of solo-preneurs in 2026.]]></content:encoded>
       <enclosure url="https://jimmy-j-xy.github.io/auto-podcaster/episodes/episode_002.mp3" length="1395377" type="audio/mpeg"/>
-      <guid isPermaLink="false">jimmy-tech-pulse-ep002</guid>
+      <guid isPermaLink="false">jimmy-tech-pulse-episode-002-v2</guid>
       <pubDate>Mon, 09 Feb 2026 01:00:00 GMT</pubDate>
-      <itunes:duration>00:05:48</itunes:duration>
+      <itunes:duration>348</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
 
     <item>
       <title>Episode 01: Cyber Buddha - How Yiwu's Zen-Tech Conquered the Global Heartbeat</title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
       <itunes:author>Jimmy</itunes:author>
       <itunes:summary>Explore the business of anxiety and how Yiwu's supply chain created a global "Emotional Aspirin".</itunes:summary>
       <description>From digital "Wooden Fish" apps to LED-lit desktop altars, a new wave of "Zen-Tech" is taking over offices from Silicon Valley to London. In this premiere episode, Jimmy breaks down the "Cyber Buddha" phenomenon: how Yiwu's lightning-fast supply chain turned ancient tradition into a global "Emotional Aspirin."</description>
       <content:encoded><![CDATA[From digital "Wooden Fish" apps to LED-lit desktop altars, a new wave of "Zen-Tech" is taking over offices from Silicon Valley to London. In this premiere episode, Jimmy breaks down the "Cyber Buddha" phenomenon: how Yiwu's lightning-fast supply chain turned ancient tradition into a global "Emotional Aspirin."]]></content:encoded>
       <enclosure url="https://jimmy-j-xy.github.io/auto-podcaster/episodes/episode_001.mp3" length="377752" type="audio/mpeg"/>
-      <guid isPermaLink="false">jimmy-tech-pulse-ep001</guid>
+      <guid isPermaLink="false">jimmy-tech-pulse-episode-001-v2</guid>
       <pubDate>Sun, 08 Feb 2026 08:00:00 GMT</pubDate>
-      <itunes:duration>00:01:34</itunes:duration>
+      <itunes:duration>94</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
