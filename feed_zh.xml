@@ -15,6 +15,15 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Business"/>
     <item>
+      <title>Ep.03 | 物流即算法：为什么实物链路决定了 AI 的天花板？</title>
+      <itunes:author>Jimmy &amp; Ava</itunes:author>
+      <description>AI可以写诗，但不能送快递。拆解为什么在AI时代，供应链才是你真正的底层算法。</description>
+      <enclosure url="https://jimmy-j-xy.github.io/auto-podcaster/episodes/zh/episode_003_zh.mp3" length="233472" type="audio/mpeg"/>
+      <guid>zh-episode-003</guid>
+      <pubDate>Mon, 16 Feb 2026 12:00:00 GMT</pubDate>
+      <itunes:duration>58</itunes:duration>
+    </item>
+    <item>
       <title>Ep.02 | AI 隐形军团：谁在默默吃掉全球套利红利？</title>
       <itunes:author>Jimmy &amp; Ava</itunes:author>
       <description>大家都说 AI 是生产力，但为什么大多数人只是用它写个邮件？拆解“脏活机”的崛起与系统架构力。</description>
