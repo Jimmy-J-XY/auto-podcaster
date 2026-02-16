@@ -15,6 +15,15 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Business"/>
     <item>
+      <title>Ep.02 | AI 隐形军团：谁在默默吃掉全球套利红利？</title>
+      <itunes:author>Jimmy &amp; Ava</itunes:author>
+      <description>大家都说 AI 是生产力，但为什么大多数人只是用它写个邮件？拆解“脏活机”的崛起与系统架构力。</description>
+      <enclosure url="https://jimmy-j-xy.github.io/auto-podcaster/episodes/zh/episode_002_zh.mp3" length="354304" type="audio/mpeg"/>
+      <guid>zh-episode-002</guid>
+      <pubDate>Mon, 16 Feb 2026 00:00:00 GMT</pubDate>
+      <itunes:duration>132</itunes:duration>
+    </item>
+    <item>
       <title>Ep.01 | 赛博佛祖：义乌解压神器的全球情绪套利</title>
       <itunes:author>Jimmy &amp; Ava</itunes:author>
       <description>为什么硅谷程序员也爱敲木鱼？拆解从义乌供应链到全球情绪消费的套利逻辑。</description>
